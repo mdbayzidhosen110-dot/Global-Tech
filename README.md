@@ -299,7 +299,7 @@ background: linear-gradient(135deg, #e8517a 0%, #f4874b 50%, #f5c518 100%);
 ---
 
 ## 🔑 Admin Access
-
+(Basic)
 The admin panel is hidden behind a secret easter egg:
 
 1. Scroll to the bottom of any page
