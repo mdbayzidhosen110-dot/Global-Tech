@@ -15,7 +15,7 @@ Live - [Globaltech.com](https://globaaltech.netlify.app)
 ### 🛍️ Storefront
 - **Hero Banner** — auto-rotating slider with Ken Burns background effect, animated headlines, shimmer CTA buttons
 - **Category Grid** — 13 product categories with scroll-triggered stagger animations
-- **Flash Deals** — countdown timers with digit-tick animation, discount badges
+- **Flash Deals** — countdown timers with digit-tick animation, discount badges 
 - **Featured Products** — tab-filtered product grid with scroll-reveal
 - **Brand Logos** — infinite auto-scrolling ticker, hover to pause, color reveal on hover
 - **Trust Badges** — animated icon pop-in on scroll
