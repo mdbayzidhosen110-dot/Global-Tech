@@ -23,7 +23,7 @@ Live - [Globaltech.com](https://globaaltech.netlify.app)
 - **Footer** — link nudge + arrow reveal on hover, social icon scale, secret admin gate (triple-click logo)
 
 ### 🛒 Shopping Experience
-- **Product pages** with image gallery, reviews, stock indicators
+- **Product pages** with image gallery, reviews, stock indicators 
 - **Cart sidebar** — slides in from right, live item count with icon pop animation
 - **Wishlist** — persisted across session
 - **Checkout** — 3-step flow (Shipping → Payment → Confirmation) with animated step indicator and order processing animation
