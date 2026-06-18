@@ -20,7 +20,7 @@ Live - [Globaltech.com](https://globaaltech.netlify.app)
 - **Brand Logos** — infinite auto-scrolling ticker, hover to pause, color reveal on hover
 - **Trust Badges** — animated icon pop-in on scroll
 - **Newsletter** — gradient section with focus glow input animation
-- **Footer** — link nudge + arrow reveal on hover, social icon scale, secret admin gate (triple-click logo)
+- **Footer** — link nudge + arrow reveal on hover, social icon scale, secret admin gate (triple-click logo) 
 
 ### 🛒 Shopping Experience
 - **Product pages** with image gallery, reviews, stock indicators 
