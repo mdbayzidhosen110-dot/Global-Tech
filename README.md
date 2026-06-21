@@ -8,7 +8,7 @@
 ![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)
 
 --- 
-Live - [Globaltech.com](https://globaaltech.netlify.app) 
+Live - [Globaltech.com](https:/) 
 
 ## ✨ Features
 
