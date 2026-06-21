@@ -41,7 +41,7 @@ Live - [Globaltech.com](https:/)
 - `viewport` meta with proper scaling 
 
 ### 🔐 Admin Panel (`/admin`)
-Access via triple-clicking the footer logo → password `admin123`
+Access via 
 
 | Page | Features |
 |------|----------|
