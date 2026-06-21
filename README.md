@@ -38,7 +38,7 @@ Live - [Globaltech.com](https://globaaltech.netlify.app)
 - 2-column product grids on mobile
 - Touch-friendly 44px tap targets
 - iOS safe area inset support (notch / home bar)
-- `viewport` meta with proper scaling
+- `viewport` meta with proper scaling 
 
 ### 🔐 Admin Panel (`/admin`)
 Access via triple-clicking the footer logo → password `admin123`
