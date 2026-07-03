@@ -7,7 +7,7 @@
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-3.4-38BDF8?style=flat-square&logo=tailwindcss)
 ![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)
   
---- 
+---  
 Live - [Globaltech.com](https:/) 
 
 ## ✨ Features 
