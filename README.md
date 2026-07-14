@@ -11,7 +11,7 @@
 Live - [Globaltech.com](https:/) 
  
 ## ✨ Features 
-
+ 
 ### 🛍️ Storefront 
 - **Hero Banner** — auto-rotating slider with Ken Burns background effect, animated headlines, shimmer CTA buttons
 - **Category Grid** — 13 product categories with scroll-triggered stagger animations
