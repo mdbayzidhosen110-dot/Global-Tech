@@ -9,7 +9,7 @@
   
 ---  
 Live - [Globaltech.com](https://globaaltech.netlify.app)
-Live(Backup) - [Globaltech.com](https://globaaltech2.netlify.app)
+(Backup) - [Globaltech.com](https://globaaltech2.netlify.app)
  
 ## ✨ Features 
  
